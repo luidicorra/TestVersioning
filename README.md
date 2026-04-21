@@ -1,8 +1,8 @@
 # TestVersioni
 
 APP VIVIANA
-- Script1
-- Script2
+- script_media.py
+- script_conta_parole.py
 
 APP LUIGI
 - FileTesto1
